@@ -2,13 +2,13 @@
   
 ## Краткое описание
 
-07.01.2021 - 07.01.2021 был проведен 1 вид тестирования - функциональное в приложения <Credit Card Number Validator>.
+07.01.2021 - 07.01.2021 был проведен 1 вид тестирования - функциональное в приложения Credit Card Number Validator.
 
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены дефект:
 
-* <https://github.com/Lada34/Java-zadanie1.2/issues/1#issue-781456768>
+* [Ограничение количества цифр номера карт в программе Credit Card Number Validator](https://github.com/Lada34/Java-zadanie1.2/issues/1#issue-781456768)
 
 ## Описание процесса тестирования
 
@@ -18,11 +18,8 @@
 * <Баг-репорт>
 
 В качестве тестовых данных использовались данные:
-* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/README.md>
-* <Ссылка на исходный код - https://github.com/Lada34/Java-zadanie1.2/blob/master/Main.java>
-
-Ожидаемый результат:
-* <При введении номеров карт, с количеством цифр 14, 15, 16, 19 внизу экрана, ниже кода появляется окно результата с надписью : Result is OK.>
+* [README.md](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/README.md)
+* [Ссылка на исходный код](https://github.com/Lada34/Java-zadanie1.2/blob/master/Main.java)
 
 Тестирование производилось в следующем окружении:
 
