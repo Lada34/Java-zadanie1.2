@@ -14,8 +14,7 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-* <Отчет о тестировании>
-* <Баг-репорт>
+* Test Case
 
 В качестве тестовых данных использовались данные:
 * [README.md](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/README.md)
